@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "IO-Extended-Cairo-Adaptive-Compose"
+rootProject.name = "AdaptiveWorkspace"
 include(":app")
